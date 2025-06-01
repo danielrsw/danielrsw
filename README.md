@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daniel Reiswich</h1>
 - 🔭 I’m currently working on My Portfolio
 
-- 👨‍💻 All of my projects are available at  [My Portfolio](https://reiswich.info)
+- 👨‍💻 All of my projects are available at  [My Portfolio](https://reiswich.info/projects)
 
 <p align="left">
 </p>
